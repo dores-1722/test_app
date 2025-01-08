@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-v+)bl5tehvxpg+sa8p*dxn9a(9h8@&7x#n@2&d!w#giupp$-qf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['jabba-6ad16ce36d55.herokuapp.com','localhost']
+ALLOWED_HOSTS = ['jabba-47f6219f1862.herokuapp.com','localhost']
 
 
 # Application definition
@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'test_app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dck690t07hbj0p',
-        'USER': 'u2leg2s0ifh210',
-        'PASSWORD': 'p016e9ce5767aea2f0d77fb8c72592230be0f7e9c0d63451a3fa1efbaa03a45dd',
-        'HOST': 'c6sfjnr30ch74e.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com',
+        'NAME': 'dd5eg2s3ltigs1',
+        'USER': 'u93ll89n84bu2e',
+        'PASSWORD': 'pe120236fd85348c138babc9d29b22cb746a898d3529dcd42c80333dd18edc464',
+        'HOST': 'c5p86clmevrg5s.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
